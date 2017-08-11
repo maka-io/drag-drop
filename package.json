@@ -1,5 +1,5 @@
 {
-  "name": "drag-drop",
+  "name": "@maka/drag-drop",
   "description": "HTML5 drag & drop for humans",
   "version": "2.13.2",
   "author": "Feross Aboukhadijeh <feross@feross.org> (http://feross.org/)",
